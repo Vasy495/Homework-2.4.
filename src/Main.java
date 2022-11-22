@@ -36,6 +36,7 @@ public class Main {
         DriverB driverB = new DriverB("А", 25, ladaGranta);
         System.out.println(driverB);
         driverB.refill();
+
     }
 
 }
